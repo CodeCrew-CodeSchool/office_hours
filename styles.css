@@ -1,12 +1,23 @@
 @import url('https://cdnfonts.com');
 
 body {
-    display: grid;
-    grid-template-columns: 1fr;
     background-color: #F0EAD6;
     font-family: 'Product Sans', sans-serif;
     text-align: center;
     color: #332421;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+header {
+    margin-bottom: 0;
+}
+
+h1 {
+    margin-bottom: 0;
 }
 
 .calendar {
@@ -18,6 +29,6 @@ body {
     border-color: #332421;
     border-width: 3px;
     border-radius: 15px;
-    padding:3%;
+    padding: 3%;
     margin: 3%;
 }
