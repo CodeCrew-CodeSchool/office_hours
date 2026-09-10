@@ -1,0 +1,19 @@
+@import url('https://cdnfonts.com');
+
+body {
+    background-color: #F0EAD6;
+    font-family: 'Product Sans', sans-serif;
+    text-align: center;
+    color: #332421;
+}
+
+section {
+    height: 50%;
+    background-color: white;
+    border-style: solid;
+    border-color: #332421;
+    border-width: 5%;
+    border-radius: 2%;
+    padding:5%;
+    margin: 5%;
+}
