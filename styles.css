@@ -9,7 +9,7 @@ body {
     color: #332421;
 }
 
-section {
+.calendar {
     justify-self: center;
     height: auto;
     width: 80%;
@@ -18,9 +18,10 @@ section {
     border-color: #332421;
     border-width: 2px;
     border-radius: 2%;
-    padding:5%;
+    padding: 5%;
+    margin: 3%;
 }
 
-iframe {
+.calendar iframe {
     border-radius: 2%;
 }
