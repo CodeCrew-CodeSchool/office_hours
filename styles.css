@@ -9,11 +9,16 @@ body {
 
 section {
     height: 50%;
+    width: 80%;
     background-color: white;
     border-style: solid;
     border-color: #332421;
-    border-width: 5%;
+    border-width: 2px;
     border-radius: 2%;
     padding:5%;
     margin: 5%;
+}
+
+iframe {
+    border-radius: 2%;
 }
